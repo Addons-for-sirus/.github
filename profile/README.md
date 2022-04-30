@@ -1,4 +1,4 @@
-#####################[![](https://github.com/Addons-for-sirus/.github/blob/main/profile/dancing-cute-duck.gif)](https://discord.gg/7cjU9xvcQY)######################
+#####################[![](https://github.com/Addons-for-sirus/.github/blob/main/profile/girl.gif)](https://discord.gg/7cjU9xvcQY)######################
 
 <!--
 
