@@ -1,4 +1,4 @@
-[![](https://github.com/Addons-for-sirus/.github/profile/dog_sleep.gif)](https://discord.gg/7cjU9xvcQY)
+[![](https://github.com/Addons-for-sirus/.github/blob/main/profile/dog_sleep.gif)](https://discord.gg/7cjU9xvcQY)
 
 <!--
 
