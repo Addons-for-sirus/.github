@@ -1,6 +1,5 @@
-## Hi there 👋
-
 [![](https://github.com/Addons-for-sirus/.github/profile/dog_sleep.gif)](https://discord.gg/7cjU9xvcQY)
+
 <!--
 
 **Here are some ideas to get you started:**
